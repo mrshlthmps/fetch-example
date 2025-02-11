@@ -9,4 +9,5 @@ This React/JavaScript app does a fetch of a public API to show a list, then a mo
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
